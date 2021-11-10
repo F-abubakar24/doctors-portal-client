@@ -1,0 +1,8 @@
+.appointment-bg {
+    background-image: url(../../../images/appointment-bg.png);
+    margin-top: 175px;
+    background-blend-mode: darken, luminosity;
+    background-position: center;
+    background-size: cover;
+    background-color: rgba(45, 58, 74, 0.9);
+}
